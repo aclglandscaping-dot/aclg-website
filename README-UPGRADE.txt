@@ -1,0 +1,1 @@
+ACLG free website upgrade. Upload the contents of this ZIP to the GitHub Pages repository root, preserving assets/. The quote form continues to use FormSubmit and should be tested after publishing. The Meet the Owners section has a placeholder. No paid integrations or customer-facing prices are included.
